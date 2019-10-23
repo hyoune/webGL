@@ -1,0 +1,32 @@
+body{
+    
+    background: linear-gradient(-90deg, #07070E, #A30800);
+    color: #fff;
+    
+        margin: 0px;
+    padding: 0px;
+}
+
+a {
+color:#F5DA81;
+font-weight:bold;
+text-decoration:none; 
+}
+a:hover {
+color:#088A68;
+text-decoration:underline;
+}
+
+
+footer {
+    
+height: 190px;
+    background: url(img/eye.gif) no-repeat;
+    background-repeat: no-repeat;
+background-size:100% 100%;
+    
+}
+
+a img {
+border: none;
+}
